@@ -8,18 +8,17 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The goal of this lab was to create a race between 2 turtles using randomly generated numbers and creating shapes.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 1
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I think I got everything
 
 ## REFERENCES:
- < List any outside resources used >
-
+Roommate helped me understand for loops and about leonardo.down()
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ POGGERS(100 please)
